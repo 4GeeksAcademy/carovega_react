@@ -2,7 +2,7 @@ import React from "react";
 
 const Nav = () => {
    return (
-    <nav className="navbar bg-dark navbar-expand-lg bg-body-tertiary"data-bs-theme="dark">
+    <nav className="navbar bg-dark navbar-expand-lg bg-body-tertiary nav"data-bs-theme="dark">
   <div className="container-fluid">
     
         <div className="mx-5">
