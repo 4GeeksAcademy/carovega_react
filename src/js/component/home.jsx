@@ -14,7 +14,7 @@ const Home = () => {
 				<Jumbotron/>
 								
 			</div>
-			<div className="contentPrinc mx-5 d-flex justify-content-between">
+			<div className="contentcard mx-5 d-flex justify-content-between">
 				<Cards/>
 				<Cards/>
 				<Cards/>
