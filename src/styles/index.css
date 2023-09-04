@@ -22,10 +22,9 @@
     flex-wrap: wrap;
 }
 .card{
-    width:18rem;
+    width:330px;
+    height: 500px;
 }
-.card img{
-    width: 500px;
-    height: 352px;
-
-}
+ .img text{
+    font-size: 40px;
+ }
